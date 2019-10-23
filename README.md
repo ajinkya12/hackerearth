@@ -1,2 +1,2 @@
-# hackerearth
+# Hackerearth
 Practice problems
